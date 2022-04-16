@@ -1,2 +1,2 @@
 # Python-project
-1.Movie scraping using beautifulSoap
+1.Movie scraping using beautifulSoup
